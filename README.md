@@ -1,4 +1,4 @@
-# Controle-banco
-projeto desenvolvido em linguagem de programação Java, utilizando orientação a objetos e dentro desse conceito, utilizamos encapsulamento, construtores e sobrecarga.
+# Bank-control
+project developed in Java program language, using object orientation and inside that concept, we use encapsulation, builders and overload.
 
-utilizando get e set e modificadores de acesso, foi desenvolvido um programa que controla uma conta no banco, não permitindo que o número da conta venha ser modificado a não ser por metodos para deposito e saque.
+using get and set and acess modifiers, was developed a program that controls a bank account, not allowing the account number to be modified, unless by deposits and withdrawals metods.
